@@ -29,7 +29,13 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. User can delete a manual asset and confirm it is removed from the application
   4. User can assign each asset to a macro category (Crypto, Stocks, Liquidity, Trading Bots) and filter assets by category
   5. The entire application (backend, frontend, database) starts with a single `docker compose up` command
-**Plans**: TBD
+**Plans**: 4 plans
+
+Plans:
+- [ ] 01-01-PLAN.md -- Backend scaffold: NestJS + TypeORM + Asset CRUD API with unit tests
+- [ ] 01-02-PLAN.md -- Frontend scaffold: Vite + React + Tailwind v4 + shadcn/ui app shell with sidebar navigation
+- [ ] 01-03-PLAN.md -- Frontend CRUD UI: asset list with category tabs, dynamic form, delete dialog
+- [ ] 01-04-PLAN.md -- Docker Compose, Dockerfiles, initial migration, full-stack integration
 
 **UI hint**: yes
 
@@ -82,7 +88,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation and Manual Assets | 0/? | Not started | - |
+| 1. Foundation and Manual Assets | 0/4 | Not started | - |
 | 2. External Integrations and Sync | 0/? | Not started | - |
 | 3. Dashboard and Portfolio Analytics | 0/? | Not started | - |
 | 4. Multi-Level Rebalancing Engine | 0/? | Not started | - |

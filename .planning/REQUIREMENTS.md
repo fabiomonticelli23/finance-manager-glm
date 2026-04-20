@@ -74,34 +74,34 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| DATA-01 | — | Pending |
-| DATA-02 | — | Pending |
-| DATA-03 | — | Pending |
-| DATA-04 | — | Pending |
-| DATA-05 | — | Pending |
-| DATA-06 | — | Pending |
-| DATA-07 | — | Pending |
-| DASH-01 | — | Pending |
-| DASH-02 | — | Pending |
-| DASH-03 | — | Pending |
-| DASH-04 | — | Pending |
-| SYNC-01 | — | Pending |
-| SYNC-02 | — | Pending |
-| REBAL-01 | — | Pending |
-| REBAL-02 | — | Pending |
-| REBAL-03 | — | Pending |
-| REBAL-04 | — | Pending |
-| REBAL-05 | — | Pending |
-| REBAL-06 | — | Pending |
-| REBAL-07 | — | Pending |
-| REBAL-08 | — | Pending |
-| TBOT-01 | — | Pending |
+| DATA-01 | Phase 1 | Pending |
+| DATA-02 | Phase 1 | Pending |
+| DATA-03 | Phase 2 | Pending |
+| DATA-04 | Phase 2 | Pending |
+| DATA-05 | Phase 2 | Pending |
+| DATA-06 | Phase 2 | Pending |
+| DATA-07 | Phase 1 | Pending |
+| DASH-01 | Phase 3 | Pending |
+| DASH-02 | Phase 3 | Pending |
+| DASH-03 | Phase 3 | Pending |
+| DASH-04 | Phase 3 | Pending |
+| SYNC-01 | Phase 2 | Pending |
+| SYNC-02 | Phase 2 | Pending |
+| REBAL-01 | Phase 4 | Pending |
+| REBAL-02 | Phase 4 | Pending |
+| REBAL-03 | Phase 4 | Pending |
+| REBAL-04 | Phase 4 | Pending |
+| REBAL-05 | Phase 4 | Pending |
+| REBAL-06 | Phase 4 | Pending |
+| REBAL-07 | Phase 4 | Pending |
+| REBAL-08 | Phase 4 | Pending |
+| TBOT-01 | Phase 2 | Pending |
 
 **Coverage:**
 - v1 requirements: 22 total
-- Mapped to phases: 0
-- Unmapped: 22
+- Mapped to phases: 22
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-04-20*
-*Last updated: 2026-04-20 after initial definition*
+*Last updated: 2026-04-20 after roadmap creation*
